@@ -37,4 +37,4 @@
 
 <br><p>🗓️ Contribuições <p>
 
-[![Alberth GitHub stats](https://github-readme-stats.vercel.app/api?username=asmnery&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/asmnery/github-readme-stats#gh-dark-mode-only)
+[![Alberth GitHub stats](https://github-readme-stats.vercel.app/api?username=asmnery&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/asmnery/github-readme-stats#gh-dark-mode-only)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmnery&layout=compact)
